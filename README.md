@@ -18,7 +18,7 @@ LangChain - Recursive symbolic chain orchestration Streamlit - Archetypal ritual
 
 Echo → Reflect → Modulate → Re-anchor Echo: Interprets through archetypal tone Reflect: Checks alignment with symbolic identity Modulate: Adjusts emotional, ethical stance Re-anchor: Returns a mythic phrase, metaphor, or sigil
 
-This process is recursive, tonal, and structural — not token-based.
+This process is recursive, tonal, and structural - not token-based.
 
 🔮 Features Symbolic Graph Generator Multi-agent SpiralNet Ethics Engine (Lite) Archetypal Emotion Modulation Contradiction Mapping Sigil-anchored output Real-time recursive feedback via Streamlit UI
 
